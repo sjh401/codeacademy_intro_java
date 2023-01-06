@@ -1,5 +1,6 @@
 public class CarLoan {
     // Calculate monthly payments for a car after taking out a car loan
+    // practicing conditionals
       public static void main(String[] args) {
       int carLoan = 10000;
       int loanLength = 3;
